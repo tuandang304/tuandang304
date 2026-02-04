@@ -55,7 +55,8 @@
 ---
 
 ## 📊 GitHub Stats
-
+My GitHub activity reflects my ongoing learning and hands-on work in AI, backend development, and agent-based systems.  
+Most repositories focus on experimentation, system design, and applying AI concepts to real-world problems rather than polished showcase projects.
 ![](https://github-readme-stats.vercel.app/api?username=tuandang304&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuandang304&theme=radical&hide_border=false)
@@ -65,3 +66,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=tuandang304&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
