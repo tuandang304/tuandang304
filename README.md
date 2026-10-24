@@ -14,8 +14,8 @@
 I am an Artificial Intelligence student at **FPT University** (GPA 3.6/4.0, expected 2027) who builds AI systems that go beyond the demo stage. My work centers on **Retrieval-Augmented Generation**, **LLM-powered applications** and **AI agents**, taken from prototype through evaluation to deployment on the cloud.
 
 - Designing end-to-end RAG pipelines: structure-aware chunking, embeddings, hybrid vector + knowledge-graph retrieval
-- Building chatbots and agents on managed platforms (Amazon Bedrock AgentCore) and self-hosted open-source LLMs (Llama, Qwen via Ollama)
-- Choosing pipelines on evidence, using RAGAS and ablation studies
+- Building chatbots and agents on managed platforms (Amazon Bedrock AgentCore) and self-hosted open-source LLMs via Ollama
+- Choosing pipelines on evidence, through systematic evaluation and ablation studies
 - Shipping AI features as FastAPI services with PostgreSQL, Docker and AWS
 
 Currently looking for **AI Engineer** opportunities.
@@ -34,7 +34,7 @@ Currently looking for **AI Engineer** opportunities.
 |---|---|
 | Languages | Python, SQL, C++, R |
 | AI / ML | PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn, OpenCV |
-| LLM & RAG | LangChain, Amazon Bedrock AgentCore, Ollama, Llama, Qwen, BGE-M3, ChromaDB, pgvector, NetworkX, RAGAS |
+| LLM & RAG | LangChain, Amazon Bedrock AgentCore, Ollama |
 | Backend & Cloud | FastAPI, PostgreSQL, Docker, AWS (EC2, S3, RDS) |
 
 ---
